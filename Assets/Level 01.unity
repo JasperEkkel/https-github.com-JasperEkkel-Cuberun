@@ -613,7 +613,12 @@ Prefab:
     - target: {fileID: 114362750294651664, guid: d630d502d42584cc7b0dad51aefcea8f,
         type: 2}
       propertyPath: Sidewaysforce
-      value: 100
+      value: 70
+      objectReference: {fileID: 0}
+    - target: {fileID: 114362750294651664, guid: d630d502d42584cc7b0dad51aefcea8f,
+        type: 2}
+      propertyPath: Forwardmovement
+      value: 7000
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d630d502d42584cc7b0dad51aefcea8f, type: 2}
@@ -1390,6 +1395,11 @@ Prefab:
     - target: {fileID: 1101018508306778, guid: 7ef31a84489f641e8a11b44af48b3ab3, type: 2}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114673449194519912, guid: 7ef31a84489f641e8a11b44af48b3ab3,
+        type: 2}
+      propertyPath: m_UiScaleMode
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7ef31a84489f641e8a11b44af48b3ab3, type: 2}

@@ -995,8 +995,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rb: {fileID: 457076110}
-  Forwardmovement: 8000
-  Sidewaysforce: 100
+  Forwardmovement: 7000
+  Sidewaysforce: 70
   jumpForce: 500
 --- !u!54 &457076110
 Rigidbody:
@@ -2009,6 +2009,11 @@ Prefab:
         type: 2}
       propertyPath: m_RootOrder
       value: 47
+      objectReference: {fileID: 0}
+    - target: {fileID: 114673449194519912, guid: 7ef31a84489f641e8a11b44af48b3ab3,
+        type: 2}
+      propertyPath: m_UiScaleMode
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7ef31a84489f641e8a11b44af48b3ab3, type: 2}
