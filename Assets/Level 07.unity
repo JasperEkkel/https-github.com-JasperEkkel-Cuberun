@@ -727,6 +727,31 @@ Prefab:
       propertyPath: m_Name
       value: Level 7
       objectReference: {fileID: 0}
+    - target: {fileID: 224314213640872982, guid: 525b580df224c442cbb9576ce2eeef17,
+        type: 2}
+      propertyPath: m_AnchoredPosition.x
+      value: -0.000030518
+      objectReference: {fileID: 0}
+    - target: {fileID: 224314213640872982, guid: 525b580df224c442cbb9576ce2eeef17,
+        type: 2}
+      propertyPath: m_SizeDelta.x
+      value: 115.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 224314213640872982, guid: 525b580df224c442cbb9576ce2eeef17,
+        type: 2}
+      propertyPath: m_AnchoredPosition.y
+      value: 252
+      objectReference: {fileID: 0}
+    - target: {fileID: 224314213640872982, guid: 525b580df224c442cbb9576ce2eeef17,
+        type: 2}
+      propertyPath: m_SizeDelta.y
+      value: 56.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 114627979993906744, guid: 525b580df224c442cbb9576ce2eeef17,
+        type: 2}
+      propertyPath: m_MatchWidthOrHeight
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 525b580df224c442cbb9576ce2eeef17, type: 2}
   m_IsPrefabAsset: 0
